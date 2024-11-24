@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ʟᴇᴏ ᠰ ᴛɢ</h1>
 
-#<b>**ABOUT ME** </b>
+#<b>***ABOUT ME*** </b>
 
                                                                                        
 ┣  ***TG NAME : ʟᴇᴏ ᠰ ᴛɢ***                                                             

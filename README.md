@@ -24,8 +24,8 @@
  
 #### + _Poisons's Github Stats_
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leotg7&show_icons=true&locale=en&layout=compact" alt="leotg7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leotg7&show_icons=true&locale=en&layout=compact" alt="LEOTG7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leotg7&show_icons=true&locale=en" alt="leotg7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LEOTG7&show_icons=true&locale=en" alt="leotg7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leotg7&" 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LEOTG7&" 

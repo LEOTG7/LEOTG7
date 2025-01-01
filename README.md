@@ -1,14 +1,30 @@
-<h1 align="center">Hi 👋, I'm LEOTG</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm ʟᴇᴏ ᠰ ᴛɢ</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leotg7&label=Profile%20views&color=0e75b6&style=flat" alt="leotg7" /> </p>
+#<b>***ABOUT ME*** </b>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+                                                                                       
+┣  ***TG NAME : ʟᴇᴏ ᠰ ᴛɢ***                                                             
+┣  ***CURRENTLY STUDYING  🍫***                               
+┣  ***LEARNING PYTHON*** ⚡️                            
+┣ ***FROM INDIA [🇮🇳]***    
+┣ ***CURRENTLY UAE [🇦🇪]***          
+┗ ━ ━ ━ ━ ━ ━ 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leotg7&show_icons=true&locale=en&layout=compact" alt="leotg7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leotg7&show_icons=true&locale=en" alt="leotg7" /></p>
+<b><i>##ʀᴇᴀᴄʜ ᴍᴇ</i></b>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leotg7&" alt="leotg7" /></p>
+
+
+
+<p align="left">  
+  <a href="https://t.me/Leotg_10">
+    <img src="https://img.shields.io/badge/%20%F0%9F%92%99-Telegram-blue?style=for-the-badge"/>
+  </a>
+
+ 
+#### + _Poisons's Github Stats_
+ 
+[![cat-of-tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=leotg7&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=false&line_height=25&hide_title=true)](https://github.com/LEOTG7/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LEOTG7&" alt="LEOTG7" /></p>
+
